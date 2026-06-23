@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LOCKTRAIL</string>
+    <string name="notification_channel">LOCKTRAIL visible tracking</string>
+</resources>
