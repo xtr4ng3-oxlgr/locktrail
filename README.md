@@ -1,7 +1,5 @@
 # LOCKTRAIL
-
-<img width="1080" height="920" alt="lt" src="https://github.com/user-attachments/assets/8152c75c-d602-4968-954f-ea47749819a1" />
-
+<img width="1672" height="941" alt="lt" src="https://github.com/user-attachments/assets/b74c9ed2-3b8d-49c1-abe1-2bbef3aa6f2d" />
 
 ## Advertencia legal y ética
 
