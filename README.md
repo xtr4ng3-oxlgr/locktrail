@@ -1,9 +1,35 @@
 # LOCKTRAIL
 
+<img width="1080" height="920" alt="lt" src="https://github.com/user-attachments/assets/8152c75c-d602-4968-954f-ea47749819a1" />
+
+
+## Advertencia legal y ética
+
+El mal uso de esta herramienta puede violar leyes de privacidad, acoso, vigilancia y protección de datos.
+
+El autor no avala ni promueve el uso de LOCKTRAIL contra dispositivos o personas sin permiso.  
+Cualquier modificación orientada a rastreo oculto, exfiltración silenciosa o vigilancia no consentida va contra el propósito del proyecto.
+
+
 **LOCKTRAIL** es una herramienta defensiva para propietarios de dispositivos Android.  
 Permite registrar ubicaciones de forma visible, exportar el historial por USB y generar mapas locales desde una aplicación de escritorio.
 
 Creado por **xtr4ng3**.
+
+## Uso prohibido
+
+No se permite usar LOCKTRAIL para:
+
+- espiar personas,
+- rastrear parejas, familiares, empleados o terceros sin consentimiento,
+- instalar la app de forma oculta,
+- eliminar avisos de permisos o notificaciones,
+- modificar el código para ocultar rastreo,
+- enviar ubicación sin intervención del usuario,
+- evadir controles de privacidad de Android.
+
+Si un fork, modificación o publicación deriva en uso abusivo, invasivo o ilegal, no está avalado por este proyecto.
+
 
 ---
 
@@ -136,31 +162,6 @@ LOCKTRAIL puede usarse para:
 
 ---
 
-## Uso prohibido
-
-No se permite usar LOCKTRAIL para:
-
-- espiar personas,
-- rastrear parejas, familiares, empleados o terceros sin consentimiento,
-- instalar la app de forma oculta,
-- eliminar avisos de permisos o notificaciones,
-- modificar el código para ocultar rastreo,
-- enviar ubicación sin intervención del usuario,
-- evadir controles de privacidad de Android.
-
-Si un fork, modificación o publicación deriva en uso abusivo, invasivo o ilegal, no está avalado por este proyecto.
-
----
-
-## Advertencia legal y ética
-
-El mal uso de esta herramienta puede violar leyes de privacidad, acoso, vigilancia y protección de datos.
-
-El autor no avala ni promueve el uso de LOCKTRAIL contra dispositivos o personas sin permiso.  
-Cualquier modificación orientada a rastreo oculto, exfiltración silenciosa o vigilancia no consentida va contra el propósito del proyecto.
-
----
-
 ## Estado del proyecto
 
 Versión inicial profesional:
@@ -174,8 +175,11 @@ Versión inicial profesional:
 
 ---
 
-## Licencia
+# Licencia
+
+<img width="384" height="384" alt="giphy (4)" src="https://github.com/user-attachments/assets/18d64b9e-fba8-493e-8462-f6722e0e64b7" />
+
+**xtr4ng3**
 
 MIT.
 
-**xtr4ng3**
